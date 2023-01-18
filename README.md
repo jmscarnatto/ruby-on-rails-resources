@@ -10,7 +10,7 @@ Hands-on resources for practicing Ruby
 - Average word length
 - Can exit
 - Decorate tree
-- Dry number
+- [Dry number](https://github.com/jmscarnatto/ruby-on-rails-resources/blob/main/dry_number.rb)
 - Elfos scrum
 - Execute commands
 - Fix letter
