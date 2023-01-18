@@ -5,7 +5,7 @@ Hands-on resources for practicing Ruby
 
 - Atm
 - Caracol
-- [Pagination](/pagination_spec.rb)
+- [Pagination](/pagination_spec.rb): strengthen your paging skills
 - Anagram checker
 - Average word length
 - Can exit
