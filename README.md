@@ -5,12 +5,12 @@ Hands-on resources for practicing Ruby
 
 - Atm
 - Caracol
-- Pagination
+- [Pagination](/pagination_spec.rb)
 - Anagram checker
 - Average word length
 - Can exit
 - Decorate tree
-- [Dry number](https://github.com/jmscarnatto/ruby-on-rails-resources/blob/main/dry_number.rb)
+- [Dry number](https://github.com/jmscarnatto/ruby-on-rails-resources/blob/main/dry_number_spec.rb)
 - Elfos scrum
 - Execute commands
 - Fix letter
