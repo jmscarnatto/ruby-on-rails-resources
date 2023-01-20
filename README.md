@@ -13,7 +13,7 @@ Hands-on resources for practicing Ruby
 - [Dry number](/dry_number_spec.rb)
 - Elfos scrum
 - Execute commands
-- Fix letter
+- [Fix letter](/fix_letter_spec.rb): your own spell checker
 - Holidays extra hours
 - How many reindeers
 - Pyramid path
