@@ -22,9 +22,9 @@ Hands-on resources for practicing Ruby
 
 ## Ruby on Rails challenges
 
-- Ecommerce
+- Ecommerce: manage lists of products, smart suggestions and visited.
 - Twitter clone
 - Travel
 - Blog
-- Shipping company
-- Staff allocation
+- Shipping company: PDF Labeler creator
+- Staff allocation: REST API to manage connections among clients, developers, and projects. 
