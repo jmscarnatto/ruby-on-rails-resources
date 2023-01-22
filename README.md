@@ -3,7 +3,7 @@ Hands-on resources for practicing Ruby
 
 ## Ruby challenges
 
-- Atm
+- [Atm](/atm_spec.rb): classic optimization of denomination dispatching
 - Caracol
 - [Pagination](/pagination_spec.rb): strengthen your paging skills
 - Anagram checker
