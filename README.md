@@ -9,7 +9,7 @@ Hands-on resources for practicing Ruby
 - Anagram checker
 - Average word length
 - Can exit
-- [Decorate tree](/decorate_tree_spec.rb): Balanced Christmas tree decoration
+- [Decorate tree](/decorate_tree_spec.rb): balanced Christmas tree decoration
 - [Dry number](/dry_number_spec.rb)
 - Elfos scrum
 - Execute commands
