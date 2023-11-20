@@ -31,3 +31,4 @@ Hands-on resources for practicing Ruby
 - Barter school supplies: books and uniforms exchange.
 - Subscriptions system: manage states, payments, plans, etc.
 - Maintenance metrics: track Downtime, MTTR, MTBF, etc.
+- Photos Sharing: tagging, roles
