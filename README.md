@@ -31,21 +31,52 @@ Hands-on resources for practicing Ruby
 
 ## Ruby on Rails proposed projects
 
-- Ecommerce: manage lists of products, smart suggestions and visited.
-- Twitter clone
-- Travel
-- Blog
-- Shipping company: PDF Labeler creator
-- Staff allocation: REST API to manage connections among clients, developers, and projects. 
-- Barter school supplies: books and uniforms exchange.
-- Subscriptions system: manage states, payments, plans, etc.
-- Maintenance metrics: track Downtime, MTTR, MTBF, etc.
-- Photos Sharing: tagging, roles
-- <details><summary>Todo list with authentication</summary>
+<details><summary>Ecommerce</summary>
+  manage lists of products, smart suggestions and visited.
+</details>
+<details><summary>Twitter clone</summary>
+</details>
+<details><summary>Travel</summary>
+</details>
+<details><summary>Blog</summary>
+</details>
+<details><summary>Shipping company</summary>
+  PDF Labeler creator
+  </details>
+<details><summary>Staff allocation</summary>
+  REST API to manage connections among clients, developers, and projects.
+  </details>
+  <details><summary>Barter school supplies</summary>
+  books and uniforms exchange.
+  </details>
+<details><summary>Subscriptions system</summary>
+  manage states, payments, plans, etc.
+</details>
+<details><summary>Maintenance metrics</summary>
+  track Downtime, MTTR, MTBF, etc.
+</details>
+<details><summary>Photos Sharing</summary>
+  tagging, roles
+</details>
+<details><summary>Todo list with authentication</summary>
   The TODO App allows a user to add reminders of thing he needs to do. Here are the requirement for the app.
   
   - Users can add, delete and see their todos.
   - All the todos are private, users can't see other user's todos.
   - Users must be logged in order to add/delete/see their todos.
-  </details>
+</details>
+<details><summary>Pizzeria</summary>
+
+  This application serves the purpose of exposing a JSON API to be consumed by a frontend client for ordering pizza.
   
+  The following entities should be created (including proper relations):
+  
+  pizza - has a name and price (e.g. Margherita $5, Pepperoni $6, ...)
+  order - has items
+  order item - has a pizza and quantity
+  The following endpoints should return a JSON response:
+  
+  /api/orders (list of orders)
+  /api/orders/:id (details of an individual order)
+  /api/pizzas (list of pizzas; see './backend/example-pizzas.json')
+</details>
