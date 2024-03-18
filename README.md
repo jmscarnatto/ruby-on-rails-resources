@@ -98,8 +98,8 @@ Hands-on resources for practicing Ruby
   ![alt text](https://raw.githubusercontent.com/uolhost/test-backEnd-Java/master/referencias/arquitetura.png)
   
   ## Links dos arquivos de referência
-  https://raw.githubusercontent.com/uolhost/test-backEnd-Java/master/referencias/liga_da_justica.xml
-  https://raw.githubusercontent.com/uolhost/test-backEnd-Java/master/referencias/vingadores.json
+  https://raw.githubusercontent.com/jmscarnatto/jmscarnatto.github.io/main/assets/liga_de_la_justicia.xml
+  https://raw.githubusercontent.com/jmscarnatto/jmscarnatto.github.io/main/assets/vengadores.json
   
   ### Casos de uso
   
