@@ -28,6 +28,34 @@ Hands-on resources for practicing Ruby
   - Using Regex expression pattern find whether a String "7th floor Galana plaza, Kilimani" contains a Integer. (your function should return Some(7) as the result)
   - Write a case class Person(name: String, age: Int) that enforce the age value must be a positive value.
   </details>
+- <details><summary>Loans</summary>
+  
+    Your challenge will be to implement a service that determines which loan types a person has access to.
+  
+    Example
+    The loan types that will be analyzed are:
+    
+    - Personal loan: 4% interest rate.
+    - Payroll loan: 2% interest rate.
+    - Secured loan: 3% interest rate.
+    
+    The types of loan available to a person are based on a few specific variables:
+    
+    - Age
+    - Salary
+    - Location
+    
+    Your service receives a call to determine which loan types a person has access to.
+  
+    ## Test    
+    - Grant the personal loan if the client's salary is equal to or less than R$ 3000.
+    - Grant a personal loan if the client's salary is between R$ 3000 and R$ 5000, if the client is under 30 years old and lives in São Paulo (SP).
+    - Grant a payroll loan if the client's salary is R$ 5000 or more.
+    - Grant a secured loan if the client's salary is R$3000 or less.
+    - Grant a secured loan if the client's salary is between R$ 3000 and R$ 5000, if the client is under 30 and lives in São Paulo (SP).
+  </details>
+
+  
 
 ## Ruby on Rails proposed projects
 
