@@ -54,8 +54,23 @@ Hands-on resources for practicing Ruby
     - Grant a secured loan if the client's salary is R$3000 or less.
     - Grant a secured loan if the client's salary is between R$ 3000 and R$ 5000, if the client is under 30 and lives in São Paulo (SP).
   </details>
+- <details><summary>3 hours limit</summary>
+    Complete these challenges in less than 3 hours
 
-  
+    - 1 Indicate whether a string is a palindrome
+    - Divide 2 numbers without using division or multiplication simbols
+    - Find max and min in an array iterating only once
+    - Create an api CRUD with authentication
+    - Fill up a database with the previous api and give the chance to export to csv
+  </details>
+- <details><summary>Hidden Word</summary>
+    Code the function such that:
+
+    ```ruby
+    find_hidden_word(['P>E', 'E>R', 'R>U']) # ==> PERU
+    find_hidden_word(['I>N', 'A>I', 'P>A', 'S>P']) # ==> SPAIN
+    ```
+  </details>
 
 ## Ruby on Rails proposed projects
 
